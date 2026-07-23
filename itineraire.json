@@ -1,0 +1,192 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Escapade Romaine : Douceur et Histoire",
+  "budget_total": "Environ 550 €/personne",
+  "duree": "3 jours",
+  "date_debut": "2026-09-01",
+  "date_fin": "2026-09-04",
+  "temps_vol": "0h54 (depuis Florence, Italie)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas Romains",
+      "legende": "Après un court vol depuis Florence, installez-vous confortablement dans la Ville Éternelle. Profitez d'une balade relaxante dans les jardins de la Villa Borghese, offrant une vue imprenable et une atmosphère paisible pour débuter votre séjour en douceur. Terminez la journée par un dîner typiquement romain.",
+      "lieu": "Rome",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Fiumicino (FCO) et transfert vers le centre de Rome.",
+        "<strong>🛏️</strong>: Installation à votre hôtel et rafraîchissement.",
+        "<strong>🌳</strong>: Balade relaxante dans les Jardins de la Villa Borghese, un havre de paix au cœur de la ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport Léonard-de-Vinci de Rome Fiumicino, Rome",
+          "categorie": "Aéroport",
+          "coords": { "lat": 41.8002, "lng": 12.2389 }
+        },
+        {
+          "nom_recherche": "Villa Borghese, Rome",
+          "categorie": "Jardin public",
+          "coords": { "lat": 41.9148, "lng": 12.4851 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport",
+          "texte": "Le Leonardo Express relie l'aéroport de Fiumicino à la gare de Roma Termini en environ 32 minutes, sans arrêts intermédiaires."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🚶‍♀️",
+      "titre": "Immersion Historique et Charme de Trastevere",
+      "legende": "Découvrez la grandeur de la Rome antique avec une promenade autour du Colisée et du Forum Romain, sans la foule des visites intérieures. L'après-midi, perdez-vous dans les ruelles pittoresques de Trastevere, un quartier authentique où le temps semble s'être arrêté, idéal pour une ambiance relaxante et un bon repas.",
+      "lieu": "Rome",
+      "activites": [
+        "<strong>🏛️</strong>: Promenade autour du Colisée et du Forum Romain, admirant ces merveilles de l'extérieur.",
+        "<strong>🚶‍♂️</strong>: Flânerie dans le quartier de Trastevere, ses ruelles pavées et ses églises charmantes.",
+        "<strong>🍝</strong>: Dîner dans une trattoria traditionnelle à Trastevere, pour goûter aux saveurs locales."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Colisée, Rome",
+          "categorie": "Monument antique",
+          "coords": { "lat": 41.8902, "lng": 12.4922 }
+        },
+        {
+          "nom_recherche": "Forum Romain, Rome",
+          "categorie": "Site archéologique",
+          "coords": { "lat": 41.8925, "lng": 12.4857 }
+        },
+        {
+          "nom_recherche": "Trastevere, Rome",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 41.8890, "lng": 12.4730 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Pour une vue imprenable sur le Forum Romain et le Palatin, montez sur la colline du Capitole, près de la Piazza del Campidoglio."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛲",
+      "titre": "Fontaines, Panthéon et Douceurs Romaines",
+      "legende": "Commencez la journée par la majesté du Panthéon, puis laissez-vous charmer par la célèbre Fontaine de Trevi et les Marches Espagnoles. L'après-midi est dédiée à la détente, peut-être avec un café en terrasse ou une dégustation de glaces artisanales, avant de profiter d'une dernière soirée romaine.",
+      "lieu": "Rome",
+      "activites": [
+        "<strong>🏛️</strong>: Visite du Panthéon, un chef-d'œuvre architectural antique.",
+        "<strong>⛲</strong>: Lancer une pièce dans la Fontaine de Trevi et admirer sa splendeur baroque.",
+        "<strong>🚶‍♀️</strong>: Monter les Marches Espagnoles et profiter de l'ambiance de la Piazza di Spagna."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Panthéon, Rome",
+          "categorie": "Monument antique",
+          "coords": { "lat": 41.8986, "lng": 12.4768 }
+        },
+        {
+          "nom_recherche": "Fontaine de Trevi, Rome",
+          "categorie": "Fontaine",
+          "coords": { "lat": 41.9009, "lng": 12.4833 }
+        },
+        {
+          "nom_recherche": "Piazza di Spagna, Rome",
+          "categorie": "Place",
+          "coords": { "lat": 41.9059, "lng": 12.4827 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍦",
+          "titre": "Gourmandise",
+          "texte": "Ne quittez pas Rome sans avoir goûté une \"gelato\" artisanale. Les saveurs sont infinies et délicieuses!"
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Souvenirs et Départ",
+      "legende": "Profitez d'un dernier petit-déjeuner italien, peut-être avec un \"cornetto\" et un \"cappuccino\". Selon l'heure de votre vol, vous pourrez faire quelques achats de dernière minute ou simplement vous imprégner une dernière fois de l'atmosphère romaine avant de prendre le chemin de l'aéroport.",
+      "lieu": "Rome",
+      "activites": [
+        "<strong>☕</strong>: Petit-déjeuner typique dans un café romain.",
+        "<strong>🛍️</strong>: Achats de souvenirs ou produits locaux (huile d'olive, pâtes artisanales).",
+        "<strong>🛫</strong>: Transfert vers l'aéroport de Fiumicino (FCO) pour votre vol retour."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Pensez aux produits locaux comme le pecorino romano, le poivre noir de qualité ou des objets artisanaux en cuir."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "48 €/personne (A/R Florence-Rome)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 20 €/personne (pass 3 jours)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 225 €/personne (25€/repas x 9 repas)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180 €/personne (3 nuits en hôtel 3* partagé)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 60 €/personne (entrées musées/sites si souhaité, ou autres)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Avril à Juin", "symbole": "🌸" },
+    { "titre": "Septembre à Octobre", "symbole": "☀️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En septembre, les températures à Rome sont agréables, variant entre 18 et 28°C. Prévoyez des vêtements légers pour la journée et une petite veste pour les soirées.", "symbole": "☀️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais il est utile d'avoir un peu de liquide pour les petits commerces ou les pourboires.", "symbole": "💳" },
+    { "titre": "Rome dispose d'un excellent réseau de transports en commun (métro, bus, tram). Un pass journalier ou de plusieurs jours est recommandé pour se déplacer facilement.", "symbole": "🚇" },
+    { "titre": "L'eau du robinet est potable à Rome et de nombreuses fontaines publiques (nasoni) offrent de l'eau fraîche gratuitement.", "symbole": "💧" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Les chats de Rome sont considérés comme un patrimoine biologique de la ville et sont protégés par la loi. Des colonies entières vivent sur des sites antiques comme le Largo di Torre Argentina."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Il existe une loi à Rome qui interdit de manger des sandwichs ou de boire de l'alcool près des fontaines historiques. Une amende salée peut être appliquée aux contrevenants!"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍝",
+      "titre": "Cacio e Pepe",
+      "description": "Un plat de pâtes simple mais divin, à base de fromage Pecorino Romano et de poivre noir. Un classique incontournable de la cuisine romaine."
+    },
+    {
+      "symbole": "🥓",
+      "titre": "Carbonara",
+      "description": "Des pâtes crémeuses avec des œufs, du Pecorino Romano, du guanciale (joue de porc) et du poivre noir. La vraie recette romaine n'utilise pas de crème!"
+    },
+    {
+      "symbole": "🍚",
+      "titre": "Supplì",
+      "description": "De délicieuses boulettes de riz frites, souvent farcies de sauce tomate et de mozzarella. Un en-cas parfait, surnommé \"supplì al telefono\" car le fromage fondu s'étire comme un fil de téléphone."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/FLR-FCO/2026-09-01/2026-09-04", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Rome", "url": "https://www.turismoroma.it/en", "symbole": "📘" },
+    { "legende": "Transports en commun Rome", "titre": "ATAC Roma", "url": "https://www.atac.roma.it/en", "symbole": "🚇" },
+    { "legende": "Météo", "titre": "Météo Rome", "url": "https://www.ilmeteo.it/meteo/Roma", "symbole": "🌤️" }
+  ]
+}
